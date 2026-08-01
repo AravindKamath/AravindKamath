@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Aravind Kamath</h1>
+
+<h3 align="center">
+Backend & AI Engineer passionate about building intelligent applications, AI agents, and scalable distributed systems.
+</h3>
+
 # 💫 About Me:
 👨‍💻 Backend Developer<br>☁️ Cloud & DevOps Enthusiast<br>🤖 Exploring Generative AI & AI Agents<br>📚 Learning High-Level System Design<br>🚀 Building projects that solve real-world problems
 
