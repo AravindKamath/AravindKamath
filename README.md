@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aravind Kamath</h1>
 
 <h3 align="center">
-Backend & AI Engineer passionate about building intelligent applications, AI agents, and scalable distributed systems.
+Aspiring AI Engineer passionate about building intelligent applications, AI agents, and scalable distributed systems.
 </h3>
 
 # 💫 About Me:
-👨‍💻 Backend Developer<br>☁️ Cloud & DevOps Enthusiast<br>🤖 Exploring Generative AI & AI Agents<br>📚 Learning High-Level System Design<br>🚀 Building projects that solve real-world problems
+👨‍💻 Backend Developer & AI Engineer<br>☁️ Cloud & DevOps Enthusiast<br>🤖 Exploring Generative AI & AI Agents<br>📚 Learning High-Level System Design<br>🚀 Building projects that solve real-world problems
 
 
 ## 🌐 Socials:
@@ -19,6 +19,6 @@ Backend & AI Engineer passionate about building intelligent applications, AI age
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AravindKamath&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AravindKamath&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AravindKamath&icon=0&color=fe428e)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
